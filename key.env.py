@@ -1,1 +1,0 @@
-API = 'sk_27d03f1545f09bb0f5aa7a7a7b2a7d5e57cc796c5132e312'
